@@ -1,4 +1,4 @@
-# react-native-kargo-takip-app
+# react-native-package-tracking-app
 
 ![](https://github.com/ahmetbasdan/react-native-kargo-takip-app/blob/master/assets/images/kargo-takip-app-preview.jpg)
 

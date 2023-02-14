@@ -1,0 +1,30 @@
+{
+    "dasboard":{
+        "logo": "KargoTakip",
+        "searchPlaceHolder":"Takip No, kargo adı, firma arama...",
+        "tabView": {
+            "devamEdiyor": "Devam Ediyor",
+            "tamamlandi": "Tamamlandı"
+        }
+    },
+    "sideMenu": {
+        "logo":"KargoTakip",
+        "sss": "S.S.S.",
+        "degerlendir": "Bizi Değerlendir",
+        "karanlikMod": "Karanlık Mod"
+    },
+    "KargoEkleEkrani": {
+        "firstHeader": "Firma Seçiniz",
+        "secondHeader": "Kargo Ekle",
+        "kargoAdPlaceHolder": "Kargo Adı",
+        "takipNoPlaceHolder": "Takip Numarası",
+        "saveButton": "Kaydet"
+    },
+    "KargoDuzenleEkrani": {
+        "header": "Kargoyu Duzenle",
+        "kargoAdPlaceHolder": "Kargo Adı",
+        "takipNoPlaceHolder": "Takip Numarası",
+        "checkBoxText": "Tamamlandı",
+        "saveButton": "Güncelle"
+    }
+}

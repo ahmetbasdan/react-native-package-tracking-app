@@ -8,8 +8,8 @@ For React Native 0.63.2
 
 ### Installation
 
-- `git clone https://github.com/ahmetbasdan/react-native-kargo-takip-app`
-- `cd react-native-kargo-takip-app && yarn install`
+- `git clone https://github.com/ahmetbasdan/react-native-package-tracking-app`
+- `cd react-native-package-tracking-app && yarn install`
 - `npm run android`
 
 # License
